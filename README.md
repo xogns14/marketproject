@@ -9,3 +9,5 @@
 ## 3. Srping 구성
   ![Spring](https://user-images.githubusercontent.com/14936004/154830722-21032ff2-3877-4014-8b1b-2c5b1e571895.png)
 
+## 4. 맡은 부분
+- 장바구니, 결제, 배송관리, 상품후기
